@@ -88,6 +88,7 @@ The following screenshots showcase selected analyses I performed using SQL on th
 I used SQL to analyze the number of flight records for each airline.
 <img width="241" height="239" alt="image" src="https://github.com/user-attachments/assets/87eeb0fe-ecfd-4e40-83d2-a973b927ea02" />
 
+
 This analysis shows the **Top 5 airlines by number of flight records**, using SQL aggregation and sorting.
 
 
