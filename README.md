@@ -62,6 +62,15 @@ Before analysis, the dataset was reviewed for:
 
 ✅ No missing values or exact duplicate records were identified in the main data quality checks.
 
+### 🌍 Airport Location Mapping
+
+A SQL reference table was created to map airport codes to city and country names. This mapping was then used to support the geographic visualization in Power BI.
+
+- Created an `Airport_Locations` reference table
+- Mapped airport codes to city and country names
+- Created an analysis view combining airport locations with arrival and departure flight counts
+- Used the resulting view to build the Power BI map
+
 ## 🔎 SQL Analysis
 
 SQL was used to analyze:
@@ -76,8 +85,8 @@ SQL was used to analyze:
 - 🔄 Transit destinations
 - 🌱 Carbon emissions by aircraft model
 - 📅 Flight volume by day
+- 🌍 Airport and city mapping for geographic analysis
 
-An analysis-ready SQL View was also created to classify flights as **Direct** or **Transit**.
 
 ## 📊 SQL Analysis Results
 
