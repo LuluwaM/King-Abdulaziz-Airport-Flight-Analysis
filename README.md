@@ -93,3 +93,7 @@ This analysis shows the **Top 5 airlines by number of flight records**, using SQ
 
 
 ### 🖼️ Dashboard by Power BI
+
+
+<img width="985" height="558" alt="image" src="https://github.com/user-attachments/assets/645d4a86-7c2d-43b3-b216-12f05bd66e3a" />
+
